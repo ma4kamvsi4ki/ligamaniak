@@ -4,6 +4,6 @@ dskl
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"hello liga glupaci";
+cout<<"zdraveite otbor.. kak ste?";
 return 0;
 }
